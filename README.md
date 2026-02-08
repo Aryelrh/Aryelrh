@@ -1,9 +1,9 @@
 ## Aryel Rivera
 ---
 
-Systems Engineering student with a strong interest in sofware develop, operating systems and experimenting with new tools and alternatives, especially around Linux and development workflows.
-I mainly use Java, Python and Rust (learning).
-Linux-first workflow.
+Systems Engineering student with a strong interest in sofware develop, operating systems and experimenting with new tools and alternatives, especially around Linux and development workflows.  
+I mainly use Java, Python and Rust (learning).  
+Linux-first workflow.  
 
 
 ### Tech and Tools
