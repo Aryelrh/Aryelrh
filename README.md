@@ -1,5 +1,4 @@
 ## Aryel Rivera
----
 
 Systems Engineering student with a strong interest in software development, operating systems and experimenting with new tools and alternatives, especially around Linux and development workflows.  
 I mainly use Java and Python, and I am currently learning Rust.  
