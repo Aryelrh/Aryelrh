@@ -8,13 +8,13 @@ Linux-first workflow.
 
 ### Tech and Tools
 ---
-Libraries / Framework: Maven, JavaFX, SpringBoot, Qt.
-Tools: Git, VS Code, Neovim, Obsidian.
-Focus areas: Backend development.
+- Libraries / Framework: Maven, JavaFX, SpringBoot, Qt.
+- Tools: Git, VS Code, Neovim, Obsidian.
+- Focus areas: Backend development.
 
 
 ### Environment
 ---
-OS: NixOS
-Laptop: Lenovo ThinkBook 14s Yoga G2
-Editor: VS Code / Neovim
+- OS: NixOS
+- Laptop: Lenovo ThinkBook 14s Yoga G2
+- Editor: VS Code / Neovim
